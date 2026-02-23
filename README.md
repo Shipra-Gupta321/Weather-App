@@ -38,6 +38,16 @@ It is a responsive web application that allows users to search for real-time wea
 * Git & GitHub – Version control.<br>
 * GitHub Pages – Live deployment.<br>
 
+<hr>
+
+## **💡 Project Highlights – Weather App**
+
+* State management using useState and useEffect to handle user input and API data
+* Custom Hook for reusable logic like fetching weather information
+* Conditional rendering to show results or error messages dynamically
+* API integration with async/await using OpenWeatherMap API for real-time weather data
+* Responsive & interactive UI deployed on GitHub Pages for live preview
+
 
 
 
