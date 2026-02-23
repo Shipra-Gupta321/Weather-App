@@ -14,3 +14,8 @@ It is a responsive web application that allows users to search for real-time wea
 🔄 Dynamic UI updates without page refresh.<br>
 🚫 Error handling for invalid or empty city searches.<br>
 ✨ Clean and interactive user interface for better usability.<br>
+
+<hr>
+
+## **🖼 Screenshots**
+
