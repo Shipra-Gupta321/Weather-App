@@ -52,17 +52,17 @@ It is a responsive web application that allows users to search for real-time wea
 
 ## **🛡 License – Weather App**
 
-**License Type:**
-Educational & Learning Purpose
+* **License Type:**
+  * Educational & Learning Purpose
 
-**Usage Guidelines:**
-This project is built for practice, learning, and portfolio purposes.
-You are welcome to view, fork, and study the code to improve your own skills.
-Commercial use is not allowed.
+* **Usage Guidelines:**
+  * This project is built for practice, learning, and portfolio purposes.
+  * You are welcome to view, fork, and study the code to improve your own skills.
+  * Commercial use is not allowed.
 
-**Credits:**
-Real-time weather data provided by OpenWeatherMap API.
-App developed using React, JavaScript, HTML, and CSS.
+* **Credits:**
+  * Real-time weather data provided by OpenWeatherMap API.
+  * App developed using React, JavaScript, HTML, and CSS.
 
 
 
